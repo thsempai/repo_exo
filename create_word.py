@@ -1,7 +1,7 @@
 from random import choice
 
 def give_word(number):
-    possibilities = ["a", "b", "c", "d", "n", "s", "t"]
+    possibilities = ["a", "b", "c", "d", "n", "s", "t", "w"]
     word = ""
     
     for n in range(number):
